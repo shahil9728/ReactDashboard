@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Shahil9728/ReactDashboard">
-    <img src="logo.png" alt="Logo" width="80" height="80">
+    <img src="public/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center"><a href="https://reactdashboard69.netlify.app/" target="_self">ReactDashboard</a></h3>
