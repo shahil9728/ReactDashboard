@@ -1,0 +1,28 @@
+.row {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: grid;
+    gap: 1rem;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+}
+
+.row-card {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 1rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    border-radius: 5px;
+    justify-content: center;
+    align-items: center;
+}
+
+.img-box
+{
+    border-radius: 50%;
+    padding: 0.9rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
