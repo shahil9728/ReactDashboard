@@ -8,7 +8,7 @@
     <img src="/public/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center"><a href="https://reactdashboard69.netlify.app/" target="_blank">ReactDashboard</a></h3>
+  <h3 align="center"><a href="https://reactdashboard69.netlify.app/" target="_self">ReactDashboard</a></h3>
   <p align="center">
     <br />
     <br />
