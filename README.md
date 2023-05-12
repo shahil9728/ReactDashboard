@@ -5,10 +5,10 @@
 <br />
 <div align="center">
   <a href="https://github.com/Shahil9728/ReactDashboard">
-    <img src="public/logo.png" alt="Logo" width="80" height="80">
+    <img src="/public/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center"><a href="https://tutotube-frontend.onrender.com" target="_blank">ReactDashboard</a></h3>
+  <h3 align="center"><a href="https://reactdashboard69.netlify.app/" target="_blank">ReactDashboard</a></h3>
   <p align="center">
     <br />
     <br />
@@ -20,7 +20,7 @@
 
 ### ReactDashboard
 
-### Project Link: [https://tutotube-frontend.onrender.com](https://tutotube-frontend.onrender.com)
+### Project Link: [https://reactdashboard69.netlify.app/](https://reactdashboard69.netlify.app/)
 Must visit it in dark mode for better view !🥰 
 
 ### Introduction
@@ -62,7 +62,7 @@ This section lists about the languages used in this project .
 
 Your Name - [@Shahil9728](https://twitter.com/Shahil9728) - shahilverma91383@gmail.com
 
-Project Link: [https://tutotube-frontend.onrender.com](https://tutotube-frontend.onrender.com)
+Project Link: [https://reactdashboard69.netlify.app/](https://reactdashboard69.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
