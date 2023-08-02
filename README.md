@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Shahil9728/ReactDashboard">
-    <img src="public/assets/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/Shahil9728/ReactDashboard/assets/96991517/9061f1d0-61f8-44a2-9583-242fe43b3a9b" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center"><a href="https://reactdashboard69.netlify.app/" target="_self">ReactDashboard</a></h3>
@@ -30,7 +30,7 @@ Our Teacher Dashboard, built with React.js, is a user-friendly web application t
 <!-- IMAGES -->
 ### WEBSITe SCREENSHOTS
 
-![Alt image](ss1.png)
+![Alt image](https://github.com/Shahil9728/ReactDashboard/assets/96991517/b154ea29-0654-47bd-8f3b-c9a685488809)
 
 
 <br/>
@@ -48,12 +48,12 @@ This section lists about the languages used in this project .
 
 <br>
 
-![Alt image](ss2.png)
+![Alt image](https://github.com/Shahil9728/ReactDashboard/assets/96991517/c234382b-ac48-4763-8e52-7751b637333c)
 
 <br>
 <br>
 
-![Alt image](ss3.png)
+![Alt image](https://github.com/Shahil9728/ReactDashboard/assets/96991517/ac700d68-e03d-44eb-9462-470fb75bd3cd)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
