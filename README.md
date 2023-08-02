@@ -60,7 +60,7 @@ This section lists about the languages used in this project .
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@Shahil9728](https://twitter.com/Shahil9728) - shahilverma91383@gmail.com
+Your Name - [@Shahil9728](https://twitter.com/ShahilV27515989) - shahilverma91383@gmail.com
 
 Project Link: [https://reactdashboard69.netlify.app/](https://reactdashboard69.netlify.app/)
 
